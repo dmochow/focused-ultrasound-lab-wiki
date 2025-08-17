@@ -1,0 +1,37 @@
+main:
+  - title: Home
+    url: /
+
+  - title: Procedures
+    children:
+      - title: Surgeries
+        url: /procedures/surgeries
+      - title: Fiber Photometry
+        url: /procedures/fiber_photometry
+      - title: tFUS Operation
+        url: /procedures/tFUS
+      - title: Behavior Tasks
+        url: /procedures/behavior_tasks
+      - title: Data Analysis
+        url: /procedures/data_analysis
+
+  - title: Reading
+    children:
+      - title: Fiber Photometry Papers
+        url: /reading/fiber_photometry_papers
+      - title: tFUS Papers
+        url: /reading/tFUS_papers
+      - title: Stochastic Thermo Papers
+        url: /reading/stochastic_thermo_papers
+
+  - title: Milestones
+    url: /milestones
+
+  - title: Expectations
+    url: /expectations
+
+  - title: Tools
+    url: /tools
+
+  - title: Resources
+    url: /resources
