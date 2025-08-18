@@ -1,3 +1,3 @@
 # Surgical Procedures
 
-This SOP covers stereotaxic surgery in adult rats...
+[Live log of procedures](https://docs.google.com/document/d/1Vbrh732yJvUjJkFfLpAVkGCXUEURdQQd9PbNoM1gc-M/edit?usp=sharing)

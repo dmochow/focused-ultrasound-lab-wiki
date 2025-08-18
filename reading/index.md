@@ -1,21 +1,6 @@
-# Reading Lists
+# Reading List
 
-Essential literature organized by research domain to build foundational knowledge for our tFUS-fiber photometry project.
-
-## Literature by Topic
-
-### [Fiber Photometry Papers](./fiber_photometry_papers)
-Key papers on fiber photometry techniques, GECIs, and dopaminergic signaling in behavior.
-
-### [tFUS Papers](./tFUS_papers)
-Foundational and recent literature on transcranial focused ultrasound neuromodulation mechanisms and applications.
-
-### [Stochastic Thermodynamics Papers](./stochastic_thermo_papers)
-Introduction to stochastic thermodynamics frameworks for understanding non-equilibrium neural dynamics.
-
-### [Required Reading List](./required_reading_list)
-Priority papers that all new lab members should read within their first month.
-
----
-
-*Papers are organized from foundational to advanced within each category. Start with papers marked as "Essential" before moving to specialized topics.*
+1. [Review of Ultrasound Neuromodulation](papers/Naor_2016_J._Neural_Eng._13_031003.pdf)
+2. [Review of Fiber Photometry](papers/fiber-photometry.pdf)
+3. [Murphy et al. (2022) PNAS — tFUS + FP](papers/murphy-et-al-2022-a-tool-for-monitoring-cell-type-specific-focused-ultrasound-neuromodulation-and-control-of-chronic.pdf)
+4. [Murphy et al. (2024) Neuron - tFUS + FP + exc:inh](papers/murphy_neuron_exc_inh_dosage.pdf)
