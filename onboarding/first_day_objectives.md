@@ -80,13 +80,8 @@ nav_exclude: true
   
 - [ ] **Your Role**
   - Primary responsibility: Experimental Lead
-  - Expected contributions to grant preliminary data
-  - Publication expectations and authorship discussions
-- [ ] **Immediate Priorities** (Next 2-4 weeks):
-  1. Complete all required training modules
-  2. Shadow existing procedures
-  3. Begin literature review (see reading lists)
-  4. Establish baseline competency in core techniques
+  - Data collection and analysis
+  - Writing select sections of manuscripts
 
 ### 3. Administrative Setup
 - [ ] **IT Setup**
@@ -99,7 +94,7 @@ nav_exclude: true
     - [Lab GitHub Boilerplate]: (dmochow.github.io/focused-ultrasound-lab-wiki])
       - Work in progress, but will hopefully become the single source of truth for the lab
 - [ ] **IACUC Documentation**
-  - Share current IACUC protocol
+  - Share current [IACUC protocol](../reading/iacuc_protocol.pdf)
   - TODO: Schedule IACUC training with Harry Acosta (hacosta007@ccny.cuny.edu)
 
 
@@ -107,10 +102,7 @@ nav_exclude: true
 
 ## Afternoon Session (1:00 PM - ?)
 
-### 4. Documentation & Resources Review 
-- [ ] **Navigate Lab Wiki Together**
-  - Together: create reading lists for fiber photometry and tFUS
-  - Understand milestone tracking system
+### 4. Documentation & Resources Review
 - [ ] **Communication Protocols**
   - Discuss Slack for communication (alternative: google chat)
   - Weekly meeting schedule
@@ -122,12 +114,9 @@ nav_exclude: true
 
 ### 5. Initial tasks
 - [ ] **Background Reading**
-  - Murphy papers on fiber photometry and tFUS
-  - tFUS review papers
-  - Primer on Fiber Photometry
+  - See reading list [here](../reading/index.md)
 - [ ] **Hands-On Task: Learning Operant Chamber**
   - Lafayette Instruments operant chamber
   - Familiarize with basic operation and data collection
   - We will probably need to schedule a call with Lafayette Instruments for training
-- [ ] **Hands-On Task: Learning GitHub**
-  - Together: find a YouTube tutorial on GitHub basics
+
