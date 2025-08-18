@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Key Papers — Fiber Photometry
 
 - Yoon et al. (2020) GRAB-DA sensors

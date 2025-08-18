@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # First Day Objectives - Welcome to the Lab!
 
 **Date:** Monday, August 18th, 2025  

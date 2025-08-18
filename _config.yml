@@ -2,3 +2,6 @@ title: Focused Ultrasound Lab Wiki
 remote_theme: just-the-docs/just-the-docs
 baseurl: "/focused-ultrasound-lab-wiki"
 url: "https://dmochow.github.io"
+
+# Navigation - use only navigation.yml
+nav_enabled: true
