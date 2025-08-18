@@ -2,6 +2,11 @@ main:
   - title: Home
     url: /
 
+  - title: Onboarding
+    children:
+      - title: First Day Objectives
+        url: /onboarding/first_day_objectives
+
   - title: Procedures
     children:
       - title: Surgeries
