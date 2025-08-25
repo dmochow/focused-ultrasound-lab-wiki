@@ -7,3 +7,4 @@
 
 ### Resources
 - [YouTube Tutorial](https://www.youtube.com/watch?v=tRZGeaHPoaw)
+- [Signing up for GitHub CoPilot for free](https://docs.github.com/en/copilot/how-tos/manage-your-account/get-free-access-to-copilot-pro)
