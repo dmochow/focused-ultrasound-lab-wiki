@@ -6,4 +6,4 @@
 - Familiarize yourself with basic Git commands for managing your code and collaborating with others.
 
 ### Resources
-- [YouTube Tutorial](youtube.com/watch?si=c6dbQSgkd_mz9alx&v=tRZGeaHPoaw&feature=youtu.be)
+- [YouTube Tutorial](https://www.youtube.com/watch?v=tRZGeaHPoaw)
