@@ -1,7 +1,7 @@
 ## This document describes the objectives of Rhiana's research
 
 ## End-goal
-Learn how to conduct experiments combining:
+### Learn how to conduct experiments combining:
     - the animal
     - fiber optic cable connected to the animal
     - Doric Neuroscience Studio capturing neural data and events
