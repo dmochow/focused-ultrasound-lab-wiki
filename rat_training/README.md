@@ -6,4 +6,4 @@
 3. Another [document](./TrainingRatsProtocol.pdf) that provides guidance on a lever release task, which is not the same but related to what we are doing
 4. YouTube [video](https://www.youtube.com/watch?v=FxYuzrB19Oc) on shaping versus luring
 5. YouTube [video](https://www.youtube.com/watch?v=4TyYX5C8uuI) on shaping the level response
-6. YouTube [video]((https://www.youtube.com/watch?v=9341H9j1cHA) on how to perform operant conditioning
+6. YouTube [video](https://www.youtube.com/watch?v=9341H9j1cHA) on how to perform operant conditioning
